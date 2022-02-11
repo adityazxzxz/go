@@ -14,3 +14,4 @@ func main(){
 	fmt.Println(angka)
 	fmt.Println(huruf)
 }
+

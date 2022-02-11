@@ -6,7 +6,6 @@ func factorial(angka int) int{
 	if angka == 1 {
 		return 1
 	}else{
-		fmt.Println(angka)
 		return angka * factorial(angka-1)
 	}
 
